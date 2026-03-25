@@ -35,6 +35,12 @@ h2 {
     margin-bottom: 20px;
 }
 
+.btn-container {
+    display: flex;
+    gap: 10px;
+}
+
+    
 button {
     border: none;
     padding-top: 10px;
