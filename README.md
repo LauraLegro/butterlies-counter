@@ -1,21 +1,22 @@
-# cod5c448780fc497db79c0ddc
+🦋 Butterfly Counter
 
-Quick start:
+A charming, interactive butterfly counter app — built as part of the Scrimba Front-End Developer Career Path.
 
-```
-$ npm install
-$ npm start
-````
+📸 About the Project
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+The Butterfly Counter app lets you track and log butterfly sightings in real time. Built as a hands-on Scrimba project, it reinforces the fundamentals of DOM manipulation, event handling, and dynamic UI updates using vanilla JavaScript.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+✨ Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Increment the butterfly count with the click of a button
+Save and log your current count to keep a running history
+Live count display that updates instantly
+Reset the count for a fresh start
 
-Happy Coding!
+
+🛠️ Built With
+
+HTML — Page structure and markup
+CSS — Styling and layout
+JavaScript — Counter logic, DOM manipulation, and event handling
+
